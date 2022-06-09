@@ -4,7 +4,7 @@ export const Body = () => {
   const [contador, setContador] = useState("")
   return (
     <>
-      <div className="hola">Hola ñiña JohannaUwu♡ </div>
+      <div className="hola">Hola ñiña JohannaUwu♡</div>
       <div className="content">
         <p className="pe">Toca el botón que quieras</p>
         <button className="btn" onClick={()=>setContador(contador+"♡ sos lo mejor  | ")}> Tocame</button>
