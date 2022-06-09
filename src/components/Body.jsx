@@ -11,7 +11,7 @@ export const Body = () => {
         <button className="btn" onClick={()=>setContador("| ♡ Te quiero ver | ")}> 2</button>
         <a href="https://www.youtube.com/watch?v=HJllxBL1w5g"> <button className="btn btn-1">3</button> </a>
         
- 
+      <p>{contador}</p>
       </div>
     </>
   );
