@@ -48,3 +48,8 @@ body{
         
 }
 
+.btn-1{
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+    border-bottom-left-radius: 250px;
+}
