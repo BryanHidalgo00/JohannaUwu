@@ -7,7 +7,7 @@
 
 }
 body{
-    background-color: #145287;
+    background-color: #574b90;
 }
 
  .hola{
@@ -17,7 +17,7 @@ body{
      display: flex;
      align-items: center;
      justify-content: center;
-     background-color: #1F2229;
+     background-color: #222f3e;
  }
 
  .content{
@@ -27,12 +27,12 @@ body{
      place-items: center;     
      width: 100%;
      height: 25vh;
-     background-color: #145287;
+     background-color: #574b90;
      color: #ffffff;
      gap: 20px;
  }
  .btn{
-     background-color: rgb(255, 255, 255) ;
+     background-color: #ffffff ;
      color: #1F2229;
      font-weight: 600;
      border: none;
